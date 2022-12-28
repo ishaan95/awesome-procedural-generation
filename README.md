@@ -2,7 +2,7 @@
 An awesome style list of resources for exploring procedural content generation (PCG). PCG methods automate content generation in games but often can be applied to other areas as well.
 
 ---
-**Notes:***
+**Notes:**
 * Please use the [discussions tab](https://github.com/ishaan95/awesome-procedural-generation/discussions) for any suggestions or comments on this curation.
 * Please use the [issues](https://github.com/ishaan95/awesome-procedural-generation/issues) to point out any errors.
 * This repo is still under construction!
