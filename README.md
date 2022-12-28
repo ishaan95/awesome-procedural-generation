@@ -13,6 +13,11 @@ An awesome style list of resources for exploring procedural content generation (
 * [Why I'm using Using Wave Function Collapse for Procedural Terrain by DV Gen](https://www.youtube.com/watch?v=20KHNA9jTsE)
 * [Procedural Map Generation Techniques. Talk by Herbert Wolverson at Roguelike Celebration](https://www.youtube.com/watch?v=TlLIOgWYVpI)
 * [Dungeon Generation via WaveFunctionCollapse. Talk by Brian Bucklew at Roguelike Celebration](https://www.youtube.com/watch?v=fnFj3dOKcIQ)
+* [Procedural World Generation of Far Cry 5. Talk by Etienne Carrier at GDC](https://www.youtube.com/watch?v=JBp8zvLVsgg)
+* [Practical Procedural Generation for Everyone. Talk at GDC by Kate Compton](https://www.youtube.com/watch?v=WumyfLEa6bU)
+* [No Man's Sky: How I Learned to Love Procedural Art. Talk by Grant Duncan at GDC](https://www.youtube.com/watch?v=vcEA41eBOGs)
+* [End-to-End Procedural Generation in Caves of Qud. Talk by Brian Bucklew and Jason Grinblat at GDC](https://www.youtube.com/watch?v=jV-DZqdKlnE)
+
 
 ## Tutorials
 * [Procedural Geometry - An Improvised live course by Freya Holmer](https://www.youtube.com/watch?v=6xs0Saff940)
